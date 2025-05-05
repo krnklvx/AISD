@@ -1,5 +1,3 @@
-package BracketChecker;
-
 import java.util.Stack;
 
 public class Main {
@@ -34,4 +32,5 @@ public class Main {
         return stack.isEmpty();
     }
 }
+
 
